@@ -5,8 +5,8 @@ Hi guys Have a look at amazing Face recognition system we have
 developed. Model is capable of detecting multiple faces at a time.
 Here system is able to detect the face in video shown in mobile phone screen!
 
-**MTCNN is one of the best algorithm for facial detection problem 
-statements in computer vision**
+****MTCNN is one of the best algorithm for facial detection problem 
+statements in computer vision****
 
 It has no compairison with hardcoded xml based algorithm like #Harcascade.
 Harcascade is too old and worst approach in todays world.
