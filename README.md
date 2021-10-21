@@ -1,10 +1,6 @@
 # [Face Recognition system , Attendance System.](https://youtu.be/IM1-jJ8CEf4)
 
 
-
-#Visit Detailed Walkthrough Video :- https://www.youtube.com/watch?v=IM1-jJ8CEf4
-
-
 Hi guys Have a look at amazing Face recognition system we have 
 developed. Model is capable of detecting multiple faces at a time.
 Here system is able to detect the face in video shown in mobile phone screen!
@@ -46,5 +42,5 @@ V)right mouth corner.
 
 
 
-
-#Visit Detailed Walkthrough Video :- https://www.youtube.com/watch?v=IM1-jJ8CEf4
+ 
+# [Visit Detailed Walkthrough Video ;-](https://www.youtube.com/watch?v=IM1-jJ8CEf4)
